@@ -67,7 +67,7 @@ To import  you can use:
 
 .. code:: python
 
-    from MultiFlowSim import voguel
+    from MultiFlowSim import Vogel
 
 
 
