@@ -4,14 +4,14 @@ MultiFlowSim
 **MultiFlowSim** is a Python Library for Multiphase Flow Simulation, powerful and user-friendly Python library designed to streamline the process of modeling and simulating multiphase flow dynamics. Developed with researchers and engineers, our library aims to provide an accessible and efficient tool for a wide range of applications, from oil and gas industry to chemical engineering, environmental engineering, and beyond.
 
 Multiphase flows involve complex interactions between various phases of fluids, such as liquids, gases, and solids. Accurately simulating these 
-interactions is crucial for optimizing processes, predicting system behavior, and improving safety measures. PyMultiFlow simplifies this task 
+interactions is crucial for optimizing processes, predicting system behavior, and improving safety measures. MultiFlowSim simplifies this task 
 by offering a flexible and modular framework that combines state-of-the-art numerical methods with an intuitive Python interface.
 
-Key features of PyMultiFlow include:
+Key features of MultiFlowSim include:
 
 1. A comprehensive suite of numerical solvers tailored for multiphase flow problems.
-2. Support for various multiphase flow models, including Eulerian-Eulerian, Eulerian-Lagrangian, and Volume of Fluid (VoF) approaches.
-3. Seamless integration with popular scientific computing libraries, such as NumPy, SciPy, and matplotlib, for efficient data processing and visualization.
+2. Support for various multiphase flow models, including Vogel.
+3. Seamless integration with popular scientific computing libraries, such as NumPy, SciPy, and Plotly, for efficient data processing and visualization.
 4. Extensive documentation, tutorials, and examples to help users get started quickly and make the most of MultiFlowSim's capabilities.
 5. A robust and active community for support, collaboration, and continuous improvement of the library.
    
