@@ -1,7 +1,7 @@
 MultiFlowSim
 ============
 
-PyMultiFlow is a powerful and user-friendly Python library designed to streamline the process of modeling and simulating multiphase flow dynamics. 
+**MultiFlowSim** is a powerful and user-friendly Python library designed to streamline the process of modeling and simulating multiphase flow dynamics. 
 Developed with researchers and engineers in mind, our library aims to provide an accessible and efficient tool for a wide range of applications, 
 from oil and gas industry to chemical engineering, environmental engineering, and beyond.
 
