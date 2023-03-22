@@ -12,10 +12,10 @@ Key features of PyMultiFlow include:
 1. A comprehensive suite of numerical solvers tailored for multiphase flow problems.
 2. Support for various multiphase flow models, including Eulerian-Eulerian, Eulerian-Lagrangian, and Volume of Fluid (VoF) approaches.
 3. Seamless integration with popular scientific computing libraries, such as NumPy, SciPy, and matplotlib, for efficient data processing and visualization.
-4. Extensive documentation, tutorials, and examples to help users get started quickly and make the most of PyMultiFlow's capabilities.
+4. Extensive documentation, tutorials, and examples to help users get started quickly and make the most of MultiFlowSim's capabilities.
 5. A robust and active community for support, collaboration, and continuous improvement of the library.
    
-Whether you are a seasoned expert in fluid dynamics or just starting to explore the fascinating world of multiphase flows, PyMultiFlow is the 
+Whether you are a seasoned expert in fluid dynamics or just starting to explore the fascinating world of multiphase flows, MultiFlowSim is the 
 perfect companion for your research and engineering projects. Join us in our mission to make multiphase flow simulation more accessible and efficient
 for everyone.
 
