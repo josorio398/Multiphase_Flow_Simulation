@@ -54,7 +54,7 @@ for everyone.
   :alt: Dependencies
   
   
-.. image::https://github.com/josorio398/Multiphase_Flow_Simulation/blob/main/images/voguel.png?raw=true
+.. image:: https://github.com/josorio398/Multiphase_Flow_Simulation/blob/main/images/voguel.png?raw=true
   :height: 80
   :align: center
   :alt: alternate text 
