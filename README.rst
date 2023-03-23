@@ -53,7 +53,7 @@ for everyone.
   :target: https://jupyter.org/
   :alt: Dependencies
   
-  <center><img src="https://github.com/josorio398/Hyperspectral_Images_Analysis/blob/main/datalore.png?raw=true" alt="imafinal" border="0" width =1000"></center>
+  
  
 Installation 
 ============
