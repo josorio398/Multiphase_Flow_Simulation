@@ -55,8 +55,8 @@ for everyone.
   
   
 .. image:: https://github.com/josorio398/Multiphase_Flow_Simulation/blob/main/images/voguel.png?raw=true
-  :height: 350px
-  :width: 200px
+  :height: 638px
+  :width: 1822px
   :align: center
   :alt: alternate text 
   
